@@ -1,5 +1,7 @@
 # Legacy Us
 
+![LegacyUsLogo](logo.png)
+
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 [![Maintainer](https://img.shields.io/badge/maintainer-Nb1X-blue)](https://github.com/Nb1X)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/7rQXX9M4Sz)
