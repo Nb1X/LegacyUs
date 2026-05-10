@@ -11,6 +11,8 @@
 
 **Legacy Us** allows you to use Among Us old versions online with other players.
 
+There is no timer of disconnecting for inactivity online.
+
 The patcher is open-source and is under the GPL-3.0 Licence.
 
 This project is in BETA. You may get bugs/glitches.
