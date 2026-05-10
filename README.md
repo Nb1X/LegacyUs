@@ -38,3 +38,5 @@ Compatible platforms:
 ⏺ It is recommended to play with Windows.
 
 To install the game, you can use the official patcher available on the releases.
+
+![Lobby](lobby.png)
