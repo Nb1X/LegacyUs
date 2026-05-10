@@ -11,6 +11,8 @@
 
 **Legacy Us** allows you to use Among Us old versions online with other players.
 
+The patcher is open-source and is under the GPL-3.0 Licence.
+
 This project is in BETA. You may get bugs/glitches.
 The logo "Legacy Us" on the lobby might be glitched.
 
