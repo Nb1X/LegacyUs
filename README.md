@@ -40,3 +40,4 @@ Compatible platforms:
 To install the game, you can use the official patcher available on the releases.
 
 ![Lobby](lobby.png)
+Picture of the Legacy Us lobby
