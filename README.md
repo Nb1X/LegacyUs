@@ -8,6 +8,7 @@
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Nb1X)
+[![Pictures](https://img.shields.io/badge/Pictures-blue)](https://github.com/Nb1X)
 
 **Legacy Us** allows you to use Among Us old versions online with other players.
 
