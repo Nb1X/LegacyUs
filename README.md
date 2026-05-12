@@ -12,7 +12,7 @@
 [![Pictures](https://img.shields.io/badge/Pictures-8A2BE2)](https://github.com/Nb1X/LegacyUs/blob/main/PICTURES.md)
 [![Security policy]( https://img.shields.io/badge/Security_policy-red)](https://github.com/Nb1X/LegacyUs/blob/main/SECURITY.md)
 [![Issues]( https://img.shields.io/badge/Issues-yellow)](https://github.com/Nb1X/LegacyUs/issues)
-[![Releases]( https://img.shields.io/badge/Releases-grey)](https://github.com/Nb1X/LegacyUs/blob/main/SECURITY.md)
+[![Releases]( https://img.shields.io/badge/Releases-grey)](https://github.com/Nb1X/LegacyUs/releases)
 
 **Legacy Us** allows you to use Among Us old versions online with other players.
 
