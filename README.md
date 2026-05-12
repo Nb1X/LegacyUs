@@ -8,20 +8,27 @@
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Nb1X)
-[![Pictures](https://img.shields.io/badge/Pictures-8A2BE2)](https://github.com/Nb1X)
+
+[![Pictures](https://img.shields.io/badge/Pictures-8A2BE2)](https://github.com/Nb1X/LegacyUs/blob/main/PICTURES.md)
+[![Security policy]( https://img.shields.io/badge/Security_policy-red)](https://github.com/Nb1X/LegacyUs/blob/main/SECURITY.md)
+[![Issues]( https://img.shields.io/badge/Issues-yellow)](https://github.com/Nb1X/LegacyUs/issues)
+[![Releases]( https://img.shields.io/badge/Releases-grey)](https://github.com/Nb1X/LegacyUs/blob/main/SECURITY.md)
 
 **Legacy Us** allows you to use Among Us old versions online with other players.
 
-There is no timer of disconnecting for inactivity online.
+🕒 There is no timer of disconnecting for inactivity online.
 
-The patcher is open-source and is under the GPL-3.0 Licence.
+🔓 The patcher is open-source and is under the GPL-3.0 Licence.
 
-This project is in BETA. You may get bugs/glitches.
-The logo "Legacy Us" on the lobby might be glitched.
+ℹ️ This project is in BETA. You may get bugs/glitches.
 
-It is based on the v2020.11.17 version of Among Us and uses an [Impostor server](https://github.com/Impostor/Impostor).
+⬆️ To install the game, you can use the official patcher available on the [releases](https://github.com/Nb1X/LegacyUs/releases/latest).
 
-If you want to host an Impostor server yourself for Legacy Us, you can see some instructions here: https://mirror-nb1x.2bd.net/website/setup-impostor-legacyus.html
+🔄 It is based on the v2020.11.17 version of Among Us and uses an [Impostor server](https://github.com/Impostor/Impostor).
+
+🛢️ If you want to host an Impostor server yourself for Legacy Us, you can see some instructions here: https://mirror-nb1x.2bd.net/website/setup-impostor-legacyus.html
+
+ℹ️ Unofficial ports (Web, TempleOS, iOS/iPadOS..) are not supported by me.
 
 Compatible platforms:
 
@@ -39,5 +46,3 @@ Compatible platforms:
 ⚠️ If you want to play Legacy Us on Windows but you don't have a licence, you can use LDPlayer 9 / BlueStacks.
 
 ⏺ It is recommended to play with Windows.
-
-To install the game, you can use the official patcher available on the releases.
